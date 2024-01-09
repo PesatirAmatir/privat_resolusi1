@@ -1,5 +1,6 @@
 privat_resolusi
 - saya ingin konsisten olahraga setiap hari
+ 1.tambahan latihan beladiri
 - menambah wawasan setiap hari dengan belajar minimal satu jam sehari
 - belajar kemampuan khusus (SKILLS) minimal 2 jam sehari
 - menyelesaikan tanggung jawab pekerjaan rumah setiap hari
