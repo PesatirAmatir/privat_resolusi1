@@ -1,4 +1,7 @@
 belajar_MTK
 belajar_fisika
+belajar-hardskills-teknik-elektro-basic
+belajar_My-SQL_for_data_analysis
 belajar_psikologi-umum
 Belajar_web_dev
+
