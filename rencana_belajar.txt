@@ -1,3 +1,5 @@
 belajar_MTK
 belajar_Kimia
-belajar_psikologi-umum
+belajar_fisika
+belajar-hardskills-teknik-elektro-basic
+belajar_My-SQL_for_data_analysis
